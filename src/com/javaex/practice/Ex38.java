@@ -27,7 +27,7 @@ public class Ex38 {
         int a = t - d;
 
         System.out.println("실제지불금액은 " + a + "입니다.");
-		
+		//
 		
 		sc.close();
 	}
