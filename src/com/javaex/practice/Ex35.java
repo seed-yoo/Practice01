@@ -16,5 +16,6 @@ public class Ex35 {
 		System.out.println("빛이 1년동안 가는 거리는 " + result + "km 입니다.");
 		
 		
+		
 	}
 }
